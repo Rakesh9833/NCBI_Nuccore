@@ -1,5 +1,7 @@
 # NCBI_Nuccore
 
+Github repo: https://github.com/Rakesh9833/NCBI_Nuccore.git
+
 Data source : https://www.ncbi.nlm.nih.gov/nuccore/ON167538
 
 Prefect UI : https://orion-docs.prefect.io/
