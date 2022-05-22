@@ -1,0 +1,3 @@
+prefect==2.0b3
+elasticsearch==8.1.2
+mysql-connector-python==8.0.28
