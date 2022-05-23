@@ -12,8 +12,9 @@ Code to run the Prefect:
 3. prefect auth login --key pcu_du1Kczy0eJeC9AeBoVpC1W18Ss0K951E14Ia
 
 
-Output: 
--Nuccore Id and data stored in a json file (Extraction done from the given dataset URL through xml file).
--Prefect UI showing the flow and task status in details. 
--Data in Mysql
--Data in Elastic search.
+Output/Results: 
+Nuccore Id and data stored in a json file (Extraction done from the given dataset URL through xml file).
+Prefect UI showing the flow and task status in details. 
+Data in Mysql
+Data in Elastic search.
+Removed the duplicate data (dedup)
